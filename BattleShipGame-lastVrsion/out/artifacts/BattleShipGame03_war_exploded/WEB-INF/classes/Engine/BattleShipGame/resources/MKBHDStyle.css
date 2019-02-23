@@ -1,0 +1,19 @@
+.root{
+    -fx-font-size: 10pt;
+    -fx-font-family: "consolas";
+    -fx-base: rgb(168, 1, 8);
+    -fx-background: rgb(184, 183, 182);
+
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+
+.label {
+-fx-font-size: 15px;
+-fx-font-weight: bold;
+    -fx-scale-x: 1.1;
+}
+
+.button{
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}

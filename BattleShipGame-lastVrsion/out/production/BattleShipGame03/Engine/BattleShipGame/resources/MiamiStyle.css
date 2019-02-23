@@ -1,0 +1,14 @@
+.root{
+    -fx-font-size: 9pt;
+    -fx-font-family: "Verdana";
+    -fx-base: #f0e6e4;
+    -fx-background: rgb(0,255,255);
+}
+
+.label {
+-fx-font-size: 15px;
+-fx-font-weight: bold;
+-fx-font-style: italic;
+    -fx-scale-x: 1.1;
+}
+
